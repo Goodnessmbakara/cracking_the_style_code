@@ -1,0 +1,28 @@
+nav {
+    background-color: #E4E9F2;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}   
+
+
+nav p{
+    color: darkblue     ;
+}
+
+
+.main-nav{
+    display:  flex;
+    list-style: none;
+}
+
+.main-nav li{
+    margin: 0 10px;
+
+}
+
+.main-nav li a{
+    text-decoration: none;
+    color: black;
+}
